@@ -6,3 +6,5 @@ print(len(s))
 print(s[0])
 #提取树字
 print(s[2])
+#提取台字
+print(s[3])
